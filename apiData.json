@@ -2,8 +2,8 @@
         "id": 1,
         "name": "Sardinha",
         "img": "images/atum.png",
-        "price": [59.99],
-        "sizes": ["860g"],
+       "price": [14.5, 19.99, 27.99],
+        "sizes": ["320g", "530g", "860g"],
         "description": "Molho, muçarela, atum, cebola fatiada e orégano."
     },
     {
