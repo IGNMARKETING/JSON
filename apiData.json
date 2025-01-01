@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Atum",
+    "name": "Sardinha",
     "img": "images/atum.png",
     "price": [14.49, 19.99, 29.99],
     "sizes": ["320g", "530g", "860g"],
